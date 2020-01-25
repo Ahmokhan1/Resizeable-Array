@@ -1,4 +1,4 @@
-#RESIZEABLE-ARRAY
+
 Resizeable-Array:In computer science, a dynamic array, growable array, resizable array, dynamic table, mutable array, or array list is a random access, variable-size list data structure that allows elements to be added or removed. It is supplied with standard libraries in many modern mainstream programming languages.
 
 #IMPLEMENTATION
