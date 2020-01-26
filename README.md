@@ -12,7 +12,7 @@ The key is to provide means to grows an array A that stores the elements of a li
 
 #Function Implementation
 
-Len:Return number of elements sorted in array 
-get_item: Return element at index k and Check it k index is in bounds of array and Retrieve from the array at index k 
-append:Add element to end of the array and assign New bigger array and reset the capacity according to it need.
-make_array:Returns a new array with new_cap capacity
+(1).Len:Return number of elements sorted in array 
+(2).get_item: Return element at index k and Check it k index is in bounds of array and Retrieve from the array at index k 
+(3).append:Add element to end of the array and assign New bigger array and reset the capacity according to it need.
+(4).make_array:Returns a new array with new_cap capacity
